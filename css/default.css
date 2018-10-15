@@ -23,13 +23,13 @@ body{
 
 .explanation{
  float: left;
- width: 468;
+ width: 468px;
 }
 
 dt{
  clear: left;
- float:left;
- font-weight:bold;
+ float: left;
+ font-weight: bold;
 }
 
 .btn{
