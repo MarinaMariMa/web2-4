@@ -50,3 +50,13 @@ dt{
 .btn-reset{
  background-color: silver;
 }
+
+
+#ingredient{
+ borde:2px solid lightcoral;
+}
+
+th,td{
+ border:1px solid lightcoral;
+}
+
