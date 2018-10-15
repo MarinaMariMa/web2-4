@@ -66,7 +66,7 @@ dt{
 }
 
 th{
- border: 1px solid lightcolal;
+ border: 1px solid lightcoral;
  background-color: mistyrose;
  padding: 5px;
  width: 100px
@@ -74,7 +74,7 @@ th{
 }
 
 td{
- border:1px solid lightcolal;
+ border:1px solid lightcoral;
  padding: 5px;
  width: 80px;
  text-align: right;
