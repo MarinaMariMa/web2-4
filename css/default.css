@@ -56,7 +56,17 @@ dt{
  borde:2px solid lightcoral;
 }
 
-th,td{
- border:1px solid lightcoral;
+th{
+ border: 1px solid lightcolar;
+ background-color: mistyrose;
+ padding: 5px;
+ width: 100px
+ text-align: center;
 }
 
+td{
+ border:1px solid lightcolar;
+ padding: 5px;
+ width: 80px;
+ text-align: right;
+}
