@@ -9,6 +9,11 @@ body{
   border: green 1px solid;
   background-color: white;
 }
+.kebab_picture:after{
+ content: "";
+ clear: both;
+ display:block;
+}
 
 .photo{
  float: left;
