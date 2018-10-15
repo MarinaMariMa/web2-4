@@ -20,9 +20,8 @@ body{
 }
 
 dt{
- clear: left;
  float:left;
- font-weight: boid;
+ width: 469px;
 }
 
 .btn{
