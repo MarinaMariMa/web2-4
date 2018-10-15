@@ -22,11 +22,13 @@ body{
 
 .explanation{
  foat: left;
+ width: 468;
 }
 
 dt{
+ clear: left;
  float:left;
- width: 469px;
+ font-weight:bold;
 }
 
 .btn{
