@@ -14,3 +14,30 @@ body{
  float: left;
  margin-right: 30px
 }
+
+.btn{
+ -webkit-appearance: none;
+ -webkit-border-radius: 0;
+ margin: 5px;
+ width: 100px;
+ height:40;
+ padding: 10px;
+ border: none;
+ font-size: 15;
+}
+
+.btn:hover{
+ opacity: 0.5;
+}
+
+.btn:active{
+ color: bluck;
+}
+
+.btn-submit{
+ background-color: lightcoral;
+}
+
+.btn-reset{
+ background-color: silver;
+}
